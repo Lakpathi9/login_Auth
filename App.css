@@ -1,0 +1,29 @@
+html,
+body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.App {
+  text-align: center;
+  text-decoration-color: white;
+}
+
+.bgcolor{
+height: 100vh;
+background-color: darkblue ;
+}
+#text1{
+  text-align: left;
+  
+}
+.form-control{
+  text-decoration: solid;
+  height: 4rem;
+}
+.submit-btn {
+  border: 0;
+  background-color: darkblue;
+  padding: 10px 60px;
+  color: white;
+  border-radius: 5px;
+}
